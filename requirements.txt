@@ -1,0 +1,5 @@
+flask~=2.0.1
+flask_sqlalchemy
+datetime~=4.3
+flask-login
+Werkzeug~=2.0.1
